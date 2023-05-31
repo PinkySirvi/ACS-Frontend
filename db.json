@@ -1,0 +1,341 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "machineinfo": [
+    {
+      "id": 1,
+      "machineid": "111",
+      "machinename": "Face-Detection Machine",
+      "machineip": "C0121",
+      "machineport": "xy",
+      "location": "Entry Gate",
+      "floor": "Second floor",
+      "doorno": "xy",
+      "configdate": "20-03-2018"
+    },
+    {
+      "machineid": "12",
+      "machinename": "Iris-[Eye-Detection Gadget]",
+      "machineip": "C0001",
+      "machineport": "yz",
+      "location": "Exit-Gate",
+      "floor": "First Floor",
+      "doorno": "3",
+      "configdate": "2022-07-10",
+      "id": 2
+    },
+    {
+      "machineid": "001",
+      "machinename": "Fingerprint Scanner ",
+      "machineip": "D0131",
+      "machineport": "abc",
+      "location": "Anemoi Technolgies[Entry Gate]",
+      "floor": "Seven Floor",
+      "doorno": "1",
+      "configdate": "2023-04-21",
+      "id": 3
+    },
+    {
+      "machineid": "002",
+      "machinename": "Face-Detection Machine",
+      "machineip": "C0131",
+      "machineport": "axx",
+      "location": "Exit-Gate",
+      "floor": "Second Floor",
+      "doorno": "1",
+      "configdate": "2022-04-15",
+      "id": 4
+    },
+    {
+      "machineid": "003",
+      "machinename": "Fingerprint Scanner",
+      "machineip": "C0141",
+      "machineport": "Entry-Gate",
+      "location": "Accenture",
+      "floor": "Third Floor",
+      "doorno": "1",
+      "configdate": "2023-02-02",
+      "id": 5
+    }
+  ],
+  "visitors": [
+    {
+      "id": "0",
+      "vname": "Ravi Sharma",
+      "vid": "01",
+      "govtid": "5509 7920 6904",
+      "emailError": "ravi@gmail.com",
+      "mobile": "4512036987",
+      "birthdate": "03-05-2001",
+      "gender": "Male",
+      "address": "Sasanenagar,Pune-28",
+      "company": "Vividha Steel",
+      "designation": "commerce",
+      "department": "Bcom",
+      "purpose": "Casual Meeting",
+      "status": "Phone,digital watch nd bag",
+      "cardno": "C0121",
+      "file": "",
+      "checkindate": "02-05-2022",
+      "checkintime": "03:27",
+      "checkouttime": "05:30",
+      "gatepass": "-"
+    },
+    {
+      "vname": "Kunal Varma",
+      "vid": "02",
+      "govtid": "5509 7920 6904",
+      "emailError": "kunal@gmail.com",
+      "mobile": "4512036987",
+      "birthdate": "03-05-2001",
+      "gender": "Male",
+      "address": "Sasanenagar,Pune-28",
+      "company": "Vividha Steel",
+      "designation": "commerce",
+      "department": "Bcom",
+      "purpose": "Casual Meeting",
+      "status": "Phone,digital watch nd bag",
+      "cardno": "C0122",
+      "file": "",
+      "checkindate": "03-05-2022",
+      "checkintime": "03:00",
+      "checkouttime": "05:30",
+      "gatepass": "-"
+    },
+    {
+      "vname": "Jyoti Ravet",
+      "vid": "03",
+      "govtid": "5509 7920 6904",
+      "emailError": "jyo@gmail.com",
+      "mobile": "4512036987",
+      "birthdate": "03-05-2001",
+      "gender": "Female",
+      "address": "Sasanenagar,Pune-28",
+      "company": "Vividha Steel",
+      "designation": "commerce",
+      "department": "Bcom",
+      "purpose": "Casual Meeting",
+      "status": "Phone,digital watch nd bag",
+      "cardno": "C0123",
+      "file": "",
+      "checkindate": "02-05-2022",
+      "checkintime": "10:00",
+      "checkouttime": "04:20",
+      "gatepass": "-"
+    },
+    {
+      "vname": "Ahana Khan",
+      "vid": "04",
+      "govtid": "s23e",
+      "emailError": "Valid Email :)",
+      "mobile": "323",
+      "birthdate": "2023-04-30",
+      "gender": "Male",
+      "address": "wdwdwqdfqwqfqqf",
+      "company": "dcc",
+      "designation": "wede",
+      "department": "wede",
+      "purpose": "dew",
+      "status": "ewde",
+      "cardno": "1213",
+      "file": "blob:http://localhost:3001/8319e71e-ac59-47cb-b565-732b99be6621",
+      "checkindate": "2023-04-19",
+      "checkintime": "02:00",
+      "checkouttime": "03:00",
+      "gatepass": "2133",
+      "id": "OXo6Str"
+    },
+    {
+      "vname": "Vasu Rina",
+      "vid": "05",
+      "govtid": "xwx",
+      "emailError": "Valid Email :)",
+      "mobile": "awsxd",
+      "birthdate": "2023-04-14",
+      "gender": "Female",
+      "address": "asxwcasx",
+      "company": "sxsax",
+      "designation": "saxcas",
+      "department": "sac",
+      "purpose": "sac",
+      "status": "asx",
+      "cardno": "C0333",
+      "file": "blob:http://localhost:3001/a6b0b0ad-cd19-4308-bbde-ff36c6549985",
+      "checkindate": "2023-05-07",
+      "checkintime": "03:27",
+      "checkouttime": "04:20",
+      "gatepass": "5462121",
+      "id": "v-pWw2r"
+    },
+    {
+      "vname": "Kapil Sharma",
+      "vid": "06",
+      "govtid": "1223 5544 5211",
+      "emailError": "Valid Email :)",
+      "mobile": "1234567890",
+      "birthdate": "2004-10-20",
+      "gender": "Male",
+      "address": "Lokhandwala,Old-Mumbai",
+      "company": "Acenture",
+      "designation": "-",
+      "department": "MSC(Bio)",
+      "purpose": "Interview",
+      "status": "Laptop,Digital watch,phone",
+      "cardno": "1001",
+      "file": "blob:http://localhost:3001/2c533e49-37c6-4f29-9acd-6054a4eddb93",
+      "checkindate": "2023-04-28",
+      "checkintime": "13:12",
+      "checkouttime": "22:20",
+      "gatepass": "C11",
+      "id": "rxIittx"
+    },
+    {
+      "vname": " Leena Raut",
+      "vid": "07",
+      "govtid": "1223 5544 5211",
+      "emailError": "Valid Email :)",
+      "mobile": "1234567890",
+      "birthdate": "2004-10-20",
+      "gender": "Female",
+      "address": "Lokhandwala,Old-Mumbai",
+      "company": "Acenture",
+      "designation": "-",
+      "department": "MSC(Bio)",
+      "purpose": "Interview",
+      "status": "Laptop,Digital watch,phone",
+      "cardno": "1001",
+      "file": "blob:http://localhost:3001/2c533e49-37c6-4f29-9acd-6054a4eddb93",
+      "checkindate": "2023-04-29",
+      "checkintime": "13:12",
+      "checkouttime": "22:20",
+      "gatepass": "C11",
+      "id": "rxIittx"
+    },
+    {
+      "vname": "Geeta Choudhary",
+      "vid": "08",
+      "govtid": "1223 5544 5211",
+      "emailError": "Valid Email :)",
+      "mobile": "1234567890",
+      "birthdate": "2004-10-20",
+      "gender": "Male",
+      "address": "Lokhandwala,Old-Mumbai",
+      "company": "Acenture",
+      "designation": "-",
+      "department": "MSC(Bio)",
+      "purpose": "Interview",
+      "status": "Laptop,Digital watch,phone",
+      "cardno": "1001",
+      "file": "blob:http://localhost:3001/2c533e49-37c6-4f29-9acd-6054a4eddb93",
+      "checkindate": "2023-03-31",
+      "checkintime": "12:12",
+      "checkouttime": "23:50",
+      "gatepass": "C11",
+      "id": "rxIittx"
+    }
+  ],
+  "schedularsetting": [
+    {
+      "id": "0",
+      "name": "Ramya Sen",
+      "empid": "111",
+      "email": "ramya@gmail.com",
+      "jobno": "C0121",
+      "department": "MSC(Bio)",
+      "joiningdate": "12-02-2023",
+      "selectedshift": "General Shift",
+      "effectivedate": "12-04-2023",
+      "shiftenddate": "12-05-2023",
+      "week": "1 week",
+      "duration": "11:47 AM",
+      "duration1": "11:40 PM"
+    },
+    {
+      "name": "",
+      "empid": "",
+      "email": "",
+      "jobno": "",
+      "department": "",
+      "joiningdate": "",
+      "selectedshift": {
+        "name": "General Shift"
+      },
+      "effectivedate": "2023-05-20",
+      "shiftenddate": "2023-05-14",
+      "week": {
+        "name": "2 Week"
+      },
+      "duration": "2023-05-05T06:39:27.538Z",
+      "duration1": "2023-05-04T18:36:27.538Z",
+      "id": "Gho2ecU"
+    },
+    {
+      "name": "",
+      "empid": "",
+      "email": "",
+      "jobno": "",
+      "department": "",
+      "joiningdate": "",
+      "selectedshift": {
+        "name": "Second Shift"
+      },
+      "effectivedate": "2023-05-06",
+      "shiftenddate": "2023-05-11",
+      "week": {
+        "name": "1 Week"
+      },
+      "duration": "2023-05-05T06:42:37.835Z",
+      "duration1": "2023-05-05T06:42:37.836Z",
+      "id": "irQtwY7"
+    },
+    {
+      "name": "",
+      "empid": "",
+      "email": "",
+      "jobno": "",
+      "department": "",
+      "joiningdate": "",
+      "selectedshift": {
+        "name": "General Shift"
+      },
+      "effectivedate": "2023-05-31",
+      "shiftenddate": "2023-05-03",
+      "week": {
+        "name": "1 Week"
+      },
+      "duration": "",
+      "duration1": "",
+      "id": "7lOrL-j"
+    },
+    {
+      "name": "",
+      "empid": "",
+      "email": "",
+      "jobno": "",
+      "department": "",
+      "joiningdate": "",
+      "selectedshift": "Second Shift",
+      "effectivedate": "",
+      "shiftenddate": "",
+      "week": "2 Week",
+      "duration": "",
+      "duration1": "",
+      "id": "298O2nr"
+    }
+  ]
+}
